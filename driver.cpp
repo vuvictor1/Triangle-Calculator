@@ -1,3 +1,9 @@
+;********************************************************************************************
+; Author Information:                                                                       *
+; Name:         Victor V. Vu                                                                *
+; Email:        vuvictor@csu.fullerton.edu                                                  *    
+;                                                                                           *
+;********************************************************************************************
 #include <cstdio> // Required header
 #include <iostream>
 #include <iomanip>
