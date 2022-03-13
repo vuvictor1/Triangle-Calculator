@@ -4,6 +4,10 @@
 ; Name:         Victor V. Vu                                                                *
 ; Email:        vuvictor@csu.fullerton.edu                                                  *    
 ;                                                                                           *
+; Program Information:                                                                      *
+; Files: driver.cpp and triangle.asm                                                        *
+; This File: driver.cpp                                                                     *
+; Description: Main file that outputs text, calls triangle function for math computations.  *
 ;********************************************************************************************
 */
 #include <cstdio> // Required header
