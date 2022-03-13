@@ -4,6 +4,7 @@
 ; Email:        vuvictor@csu.fullerton.edu                                                  *    
 ;                                                                                           *
 ; Program Information:                                                                      *
+: Program Name: Triangle Calculator                                                         *
 ; Files: driver.cpp and triangle.asm                                                        *
 ; This File: triangle.asm                                                                   *
 ; Description: Called by driver to calculate missing side, perimeter and area.              *
