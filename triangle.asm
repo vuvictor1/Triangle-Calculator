@@ -1,4 +1,3 @@
-/*
 ;********************************************************************************************
 ; Author Information:                                                                       *
 ; Name:         Victor V. Vu                                                                *
@@ -9,7 +8,7 @@
 ; This File: triangle.asm                                                                   *
 ; Description: Called by driver to calculate missing side, perimeter and area.              *
 ;********************************************************************************************
-*/
+
 extern printf ; Required, includes printf
 extern scanf ; Required, includes scanf
 extern sin ; Includes sin
