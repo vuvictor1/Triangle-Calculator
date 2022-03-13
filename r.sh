@@ -4,7 +4,7 @@
 #Other lines starting with # are comments
 
 #Author: Victor V. Vu
-#Title: BASH compilation file for C++
+#Descrption: BASH compilation file
 
 #Removes old files when we create a new compilation
 rm *.o
