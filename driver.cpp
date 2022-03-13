@@ -5,6 +5,7 @@
 ; Email:        vuvictor@csu.fullerton.edu                                                  *    
 ;                                                                                           *
 ; Program Information:                                                                      *
+: Program Name: Triangle Calculator                                                         *
 ; Files: driver.cpp and triangle.asm                                                        *
 ; This File: driver.cpp                                                                     *
 ; Description: Main file that outputs text, calls triangle function for math computations.  *
