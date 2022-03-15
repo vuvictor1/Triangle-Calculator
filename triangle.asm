@@ -102,7 +102,7 @@ call scanf ; scanf("%lf %lf %lf", rsp, rsp + 8, rsp + 16);
 
 movsd xmm15, [rsp+0] ; dereference the data at the top of stack, store in xmm15
 movsd xmm14, [rsp+8]
-movsd xmm13, [rsp+16]
+movsd xmm13, [rsp+16] ; dereference the data at the bottom of stack store in xmm13
 
 mov rax, 3 ; code expects 3 floats
 mov rdi, float_output ;output float
