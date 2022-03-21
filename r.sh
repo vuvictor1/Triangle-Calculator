@@ -3,7 +3,8 @@
 #Line above is required for every bash file
 #Other lines starting with # are comments
 
-#Author: Victor V. Vu
+#Author: Victor V. Vu 
+#Section: Cpsc 240-07                                                                
 #Descrption: BASH compilation file
 
 #Removes old files when we create a new compilation
