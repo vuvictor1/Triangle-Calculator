@@ -3,7 +3,7 @@
 ; Author Information:                                                                       *
 ; Name:         Victor V. Vu                                                                *
 ; Email:        vuvictor@csu.fullerton.edu                                                  *
-; Class:        Cpsc 240-07                                                                 *  
+; Section:      Cpsc 240-07                                                                 *  
 ;                                                                                           *
 ; Program Information:                                                                      *
 ; Program Name: Triangle Calculator                                                         *
