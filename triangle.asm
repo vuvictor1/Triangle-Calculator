@@ -71,7 +71,7 @@ push       r15             ;Back up r15
 pushf                      ;Back up rflags
 ;--------------------------------------------
 
-; Printf blocks for text
+; Printf block for welcome message
 mov rax, 0 ; tells not to print float
 mov rdi, welcome ; passes intro
 call printf ; call function to print
@@ -105,7 +105,7 @@ movsd xmm15, [rsp+0] ; dereference the data at the top of stack, store in xmm15
 movsd xmm14, [rsp+8]
 movsd xmm13, [rsp+16] ; dereference the data at the bottom of stack store in xmm13
 
-mov rax, 3 ; code expects 3 floats
+mov rax, 3 ; move 3 into rax, code expects 3 floats
 mov rdi, float_output ;output float
 mov rsi, user_name ; output username
 movsd xmm0, xmm15 ; copy the value in xmm15 to xmm0
@@ -137,7 +137,7 @@ mulsd xmm13, xmm12 ; mutilply degrees with xmm12
 ; Perimiter calculations
 ; Find the missing side (C) = sqrt(A^2 + B^2 - 2AB*cos(x))
 ; xmm15 = A, xmm14 = B, and xmm13 = angle (rad)
-mov rax, 2 ; expect 2 float
+mov rax, 2 ; move 2 into rax, expect 2 float
 cvtsi2sd xmm12, rax ; converts int 2 to floats
 mulsd xmm12, xmm15 ; mutiplies side 1 to pi
 mulsd xmm12, xmm14 ; mutiplies side 1 and 2 to pi
