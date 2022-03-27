@@ -11,7 +11,6 @@
 ; This File: driver.cpp                                                                     *
 ; Description: Main file that outputs text, calls triangle function for math computations.  *
 ;********************************************************************************************
-;                                                                                           *
 ; Copyright (C) 2022 Victor V. Vu                                                           *
 ; This program is free software: you can redistribute it and/or modify it under the terms   * 
 ; of the GNU General Public License version 3 as published by the Free Software Foundation. * 
