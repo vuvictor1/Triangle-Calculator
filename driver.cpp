@@ -22,8 +22,8 @@
 ;********************************************************************************************
 */
 #include <cstdio> // Required header
-#include <iostream>
-#include <iomanip>
+#include <iostream> // header for cout function
+#include <iomanip> // header to set decimal precision
 
 extern "C" double triangle(); //includes triangle as an external function
 
