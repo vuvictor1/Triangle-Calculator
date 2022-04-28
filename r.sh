@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#Line above is required for every bash file
-
 #;********************************************************************************************
 #; Author: Victor V. Vu                                                                      *
 #; Section: Cpsc 240-07                                                                      *
