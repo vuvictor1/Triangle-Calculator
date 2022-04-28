@@ -1,13 +1,12 @@
 /*
 ;********************************************************************************************
 ; Author Information:                                                                       *
-; Name:         Victor V. Vu                                                                *
-; Email:        vuvictor@csu.fullerton.edu                                                  *
-; Section:      Cpsc 240-07                                                                 *  
+; Name: Victor V. Vu                                                                        *
+; Email: vuvictor@csu.fullerton.edu                                                         *
+; Section: Cpsc 240-07                                                                      *
 ;                                                                                           *
 ; Program Information:                                                                      *
 ; Program Name: Triangle Calculator                                                         *
-; Files: driver.cpp and triangle.asm                                                        *
 ; This File: driver.cpp                                                                     *
 ; Description: Main file that outputs text, calls triangle function for math computations.  *
 ;********************************************************************************************
